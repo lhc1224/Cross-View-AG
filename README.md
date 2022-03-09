@@ -1,1 +1,1 @@
-# cross-view-knowledge-transfer-affordance-grounding-framework
+# Learning Affordance Grounding from Exocentric Images
