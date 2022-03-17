@@ -98,7 +98,7 @@ This project is for research purpose only, please contact us for the licence of 
 ```
 @inproceedings{Learningluo,
   title={Learning Affordance Grounding from Exocentric Images},
-  author={Hongchen Luo and Wei Zhai and Jing Zhang and Yang Cao and Dacheng Tao},
+  author={Luo, Hongchen and Zhai, Wei and Zhang, Jing and Cao, Yang and Tao, Dacheng},
   booktitle={CVPR},
   year={2022}
 }
