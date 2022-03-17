@@ -77,6 +77,26 @@ in AGD20K, where the horizontal axis denotes the object category and the vertica
 
 ## 📊 Experimental Results <a name="7"></a> 
 
+<p align="center">
+    <img src="./img/result1.png" width="800"/> <br />
+    <em> 
+    </em>
+</p>
+
+**The results of different methods on AGD20k.** The best results are in bold. “Seen” means that the training set and the test set
+contain the same object categories, while “Unseen” means that the object categories in the training set and the test set do not overlap. The
+ defines the relative improvement of our method over other methods. “Dark red”, “Orange” and “Purple” represent saliency detection,
+weakly supervised object localization and affordance grounding models, respectively.
+
+<p align="center">
+    <img src="./img/result2.png" width="800"/> <br />
+    <em> 
+    </em>
+</p>
+
+
+**Visual affordance heatmaps on the AGD20K dataset.** We select the prediction results of representative methods of affordance
+grounding (Hotspots [33]), weakly supervised object localization (EIL [30]), and saliency detection (DeepGazeII [21]) for presentation.
 
 ## ✉️ Statement <a name="8"></a> 
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact [lhc12@mail.ustc.edu.cn](lhc12@mail.ustc.edu.cn) or [wzhai056@mail.ustc.edu.cn](wzhai056@mail.ustc.edu.cn).
