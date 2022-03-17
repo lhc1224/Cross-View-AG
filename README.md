@@ -27,6 +27,17 @@ Affordance grounding, a task to ground (i.e., localize) action possibility regio
 **Observation.** By observing the exocentric diverse interactions, the human learns affordance knowledge determined by the
 object’s intrinsic properties and transfer it to the egocentric view.
 
+<p align="center">
+    <img src="./img/Motivation.png" width="700"/> <br />
+    <em> 
+    </em>
+</p>
+
+**Motivation.** (a) Exocentric interactions can be decomposed into affordance-specific features M and differences in individual
+habits E. (b) There are co-relations between affordances, e.g.“Cut with” inevitably accompanies “Hold” and is independent of the object
+category (knife and scissors). Such co-relation is common between objects. In this paper, we mainly consider extracting affordance-specific
+cues M from diverse interactions while preserving the affordance co-relations to enhance the perceptual capability of the network.
+
 ## 📖 Method <a name="3"></a> 
 
 ## 📂 Dataset <a name="4"></a> 
