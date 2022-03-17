@@ -23,6 +23,8 @@ Affordance grounding, a task to ground (i.e., localize) action possibility regio
     <em> 
     </em>
 </p>
+**Observation.** By observing the exocentric diverse interactions, the human learns affordance knowledge determined by the
+object’s intrinsic properties and transfer it to the egocentric view.
 
 ## 📖 Method <a name="3"></a> 
 
