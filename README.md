@@ -54,6 +54,16 @@ the network’s affordance perception by aligning the co-relation of the outputs
 
 ## 📂 Dataset <a name="4"></a> 
 
+<p align="center">
+    <img src="./img/dataset.png" width="800"/> <br />
+    <em> 
+    </em>
+</p>
+
+**The properties of the AGD20K dataset.** (a) Some examples from the dataset. (b) The distribution of categories in AGD20K.
+(c) The word cloud distribution of affordances in AGD20K. (d) Confusion matrix between the affordance category and the object category
+in AGD20K, where the horizontal axis denotes the object category and the vertical axis denotes the affordance category.
+
 ## 📃 Requirements <a name="5"></a> 
   - python 3.7 
   - pytorch 1.1.0
