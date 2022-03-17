@@ -85,7 +85,7 @@ in AGD20K, where the horizontal axis denotes the object category and the vertica
 
 **The results of different methods on AGD20k.** The best results are in bold. “Seen” means that the training set and the test set
 contain the same object categories, while “Unseen” means that the object categories in the training set and the test set do not overlap. The
-$\textcolor{darkpink}{\diamond}$ defines the relative improvement of our method over other methods. “Dark red”, “Orange” and “Purple” represent saliency detection,
+* defines the relative improvement of our method over other methods. “Dark red”, “Orange” and “Purple” represent saliency detection,
 weakly supervised object localization and affordance grounding models, respectively.
 
 <p align="center">
