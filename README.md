@@ -24,8 +24,7 @@ Affordance grounding, a task to ground (i.e., localize) action possibility regio
     </em>
 </p>
 
-**Observation.** By observing the exocentric diverse interactions, the human learns affordance knowledge determined by the
-object’s intrinsic properties and transfer it to the egocentric view.
+**Observation.** By observing the exocentric diverse interactions, the human learns affordance knowledge determined by the object’s intrinsic properties and transfer it to the egocentric view.
 
 <p align="center">
     <img src="./img/Motivation.png" width="700"/> <br />
@@ -33,10 +32,7 @@ object’s intrinsic properties and transfer it to the egocentric view.
     </em>
 </p>
 
-**Motivation.** (a) Exocentric interactions can be decomposed into affordance-specific features M and differences in individual
-habits E. (b) There are co-relations between affordances, e.g.“Cut with” inevitably accompanies “Hold” and is independent of the object
-category (knife and scissors). Such co-relation is common between objects. In this paper, we mainly consider extracting affordance-specific
-cues M from diverse interactions while preserving the affordance co-relations to enhance the perceptual capability of the network.
+**Motivation.** (a) Exocentric interactions can be decomposed into affordance-specific features M and differences in individual habits E. (b) There are co-relations between affordances, e.g.“Cut with” inevitably accompanies “Hold” and is independent of the object category (knife and scissors). Such co-relation is common between objects. In this paper, we mainly consider extracting affordance-specific cues M from diverse interactions while preserving the affordance co-relations to enhance the perceptual capability of the network.
 
 
 ## 📖 Method <a name="3"></a> 
@@ -47,10 +43,7 @@ cues M from diverse interactions while preserving the affordance co-relations to
     </em>
 </p>
 
-**Overview of the proposed cross-view knowledge transfer affordance grounding framework.** It mainly consists of an
-Affordance Invariance Mining (AIM) module and an Affordance Co-relation Preservation (ACP) strategy. The AIM module (see in Sec.
-3.1) aims to obtain invariant affordance representations from diverse exocentric interactions. The ACP strategy (see in Sec. 3.2) enhances
-the network’s affordance perception by aligning the co-relation of the outputs of the two views.
+**Overview of the proposed cross-view knowledge transfer affordance grounding framework.** It mainly consists of an Affordance Invariance Mining (AIM) module and an Affordance Co-relation Preservation (ACP) strategy. The AIM module (see in Sec. 3.1) aims to obtain invariant affordance representations from diverse exocentric interactions. The ACP strategy (see in Sec. 3.2) enhances the network’s affordance perception by aligning the co-relation of the outputs of the two views.
 
 ## 📂 Dataset <a name="4"></a> 
 
@@ -60,9 +53,7 @@ the network’s affordance perception by aligning the co-relation of the outputs
     </em>
 </p>
 
-**The properties of the AGD20K dataset.** (a) Some examples from the dataset. (b) The distribution of categories in AGD20K.
-(c) The word cloud distribution of affordances in AGD20K. (d) Confusion matrix between the affordance category and the object category
-in AGD20K, where the horizontal axis denotes the object category and the vertical axis denotes the affordance category.
+**The properties of the AGD20K dataset.** (a) Some examples from the dataset. (b) The distribution of categories in AGD20K. (c) The word cloud distribution of affordances in AGD20K. (d) Confusion matrix between the affordance category and the object category in AGD20K, where the horizontal axis denotes the object category and the vertical axis denotes the affordance category.
 
 ## 📃 Requirements <a name="5"></a> 
   - python 3.7 
@@ -83,10 +74,7 @@ in AGD20K, where the horizontal axis denotes the object category and the vertica
     </em>
 </p>
 
-**The results of different methods on AGD20k.** The best results are in bold. “Seen” means that the training set and the test set
-contain the same object categories, while “Unseen” means that the object categories in the training set and the test set do not overlap. The
-* defines the relative improvement of our method over other methods. “Dark red”, “Orange” and “Purple” represent saliency detection,
-weakly supervised object localization and affordance grounding models, respectively.
+**The results of different methods on AGD20k.** The best results are in bold. “Seen” means that the training set and the test set contain the same object categories, while “Unseen” means that the object categories in the training set and the test set do not overlap. The * defines the relative improvement of our method over other methods. “Dark red”, “Orange” and “Purple” represent saliency detection, weakly supervised object localization and affordance grounding models, respectively.
 
 <p align="center">
     <img src="./img/result2.png" width="800"/> <br />
@@ -95,8 +83,7 @@ weakly supervised object localization and affordance grounding models, respectiv
 </p>
 
 
-**Visual affordance heatmaps on the AGD20K dataset.** We select the prediction results of representative methods of affordance
-grounding (Hotspots [33]), weakly supervised object localization (EIL [30]), and saliency detection (DeepGazeII [21]) for presentation.
+**Visual affordance heatmaps on the AGD20K dataset.** We select the prediction results of representative methods of affordance grounding (Hotspots [33]), weakly supervised object localization (EIL [30]), and saliency detection (DeepGazeII [21]) for presentation.
 
 ## ✉️ Statement <a name="8"></a> 
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact [lhc12@mail.ustc.edu.cn](lhc12@mail.ustc.edu.cn) or [wzhai056@mail.ustc.edu.cn](wzhai056@mail.ustc.edu.cn).
