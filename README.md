@@ -61,9 +61,14 @@ Affordance grounding, a task to ground (i.e., localize) action possibility regio
   - opencv
 
 
-
 ## ✏️ Usage <a name="6"></a> 
 
+```bash  
+git clone https://github.com/lhc1224/Cross-View-AG.git
+cd Cross-View-AG
+```
+### Download PAD <a name="41"></a> 
+- You can download the AGD20K from [ [Google Drive]() | [Baidu Pan]() ].
 
 
 ## 📊 Experimental Results <a name="7"></a> 
