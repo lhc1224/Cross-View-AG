@@ -42,7 +42,7 @@ cues M from diverse interactions while preserving the affordance co-relations to
 ## 📖 Method <a name="3"></a> 
 
 <p align="center">
-    <img src="./img/Method.png" width="700"/> <br />
+    <img src="./img/Method.png" width="800"/> <br />
     <em> 
     </em>
 </p>
