@@ -68,7 +68,7 @@ git clone https://github.com/lhc1224/Cross-View-AG.git
 cd Cross-View-AG
 ```
 ### Download PAD <a name="41"></a> 
-- You can download the AGD20K from [ [Google Drive]() | [Baidu Pan]() ].
+- You can download the AGD20K from [ [Google Drive]() | [Baidu Pan](https://pan.baidu.com/s/1ptQEeWIUERNGYD-WFc37Nw) (gome) ].
 
 
 ## 📊 Experimental Results <a name="7"></a> 
