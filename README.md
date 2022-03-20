@@ -71,7 +71,7 @@ cd Cross-View-AG
 - You can download the AGD20K from [ [Google Drive]() | [Baidu Pan]() () ].
 
 ### Train <a name="61"></a> 
-You can download the pretrained model from [ [Google Drive](https://drive.google.com/file/d/16OYi8kAxHosfCo8E4gmFIhwemW1FaCEB/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1HbsvNctWd6XLXFcbIoq1ZQ) (xjk5) ], then move it to the `models` folder
+You can download the pretrained model from [ [Google Drive](https://drive.google.com/file/d/16OYi8kAxHosfCo8E4gmFIhwemW1FaCEB/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1HbsvNctWd6XLXFcbIoq1ZQ) (xjk5) ], then move it to the `weights` folder
 To train the Cross-View-AG model, run `train.py` with the desired model architecture:
 ```bash  
  python train.py  --save_path save_model --batch_size 14   --gpu 0   
