@@ -68,7 +68,14 @@ git clone https://github.com/lhc1224/Cross-View-AG.git
 cd Cross-View-AG
 ```
 ### Download AGD20K <a name="41"></a> 
-- You can download the AGD20K from [ [Google Drive](https://drive.google.com/file/d/1tlZv1xMRqwa1S5IHJMnvHhJ6oaWk56_f/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1ptQEeWIUERNGYD-WFc37Nw) (gome) ].
+- You can download the AGD20K from [ [Google Drive]() | [Baidu Pan]() () ].
+
+### Train <a name="61"></a> 
+You can download the pretrained model from [ [Google Drive](https://drive.google.com/file/d/16OYi8kAxHosfCo8E4gmFIhwemW1FaCEB/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1HbsvNctWd6XLXFcbIoq1ZQ) (xjk5) ], then move it to the `models` folder
+To train the OSAD-Net_ijcai model, run `run_os_ad.py` with the desired model architecture:
+```bash  
+ python train.py  --save_path save_model --batch_size 14   --gpu 0   
+```
 
 
 ## 📊 Experimental Results <a name="7"></a> 
