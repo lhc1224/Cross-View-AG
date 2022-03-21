@@ -8,7 +8,7 @@ PyTorch implementation of our one-shot affordance detection models. This reposit
 6. [✏️ Usage](#6)
 7. [📊 Experimental Results](#7)
 8. [✉️ Statement](#8)
-9. [✨ Other relevant new works](#9)
+9. [✨ Other relevant works](#9)
 10. [🔍 Citation](#10)
 
 ## 📎 Paper Link <a name="1"></a> 
