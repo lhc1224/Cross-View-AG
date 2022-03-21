@@ -11,7 +11,7 @@ PyTorch implementation of our one-shot affordance detection models. This reposit
 9. [🔍 Citation](#9)
 
 ## 📎 Paper Link <a name="1"></a> 
-* Learning Affordance Grounding from Exocentric Images (CVPR2022) [[pdf]()] [[Supplementary Material]()]
+* Learning Affordance Grounding from Exocentric Images (CVPR2022) [[pdf](https://arxiv.org/abs/2203.09905)] [[Supplementary Material]()]
 > Authors:
 > Hongchen Luo, Wei Zhai, Jing Zhang, Yang Cao, Dacheng Tao
 
