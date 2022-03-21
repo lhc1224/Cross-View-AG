@@ -8,7 +8,8 @@ PyTorch implementation of our one-shot affordance detection models. This reposit
 6. [✏️ Usage](#6)
 7. [📊 Experimental Results](#7)
 8. [✉️ Statement](#8)
-9. [🔍 Citation](#9)
+9. [✨ Other relevant new works](#9)
+10. [🔍 Citation](#10)
 
 ## 📎 Paper Link <a name="1"></a> 
 * Learning Affordance Grounding from Exocentric Images (CVPR2022) [[pdf](https://arxiv.org/abs/2203.09905)] [[Supplementary Material](https://drive.google.com/file/d/1VN27W_srlKpsYczqO-4mS0X6-qsHTi4j/view?usp=sharing)]
@@ -99,6 +100,12 @@ To train the Cross-View-AG model, run `train.py` with the desired model architec
 
 ## ✉️ Statement <a name="8"></a> 
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact [lhc12@mail.ustc.edu.cn](lhc12@mail.ustc.edu.cn) or [wzhai056@mail.ustc.edu.cn](wzhai056@mail.ustc.edu.cn).
+
+## ✨ Other relevant works <a name="9"></a> 
+
+1.The paper "One-Shot Affordance Detection" was accepted by IJCAI2021 and the corresponding paper and code are available from [https://github.com/lhc1224/OSAD_Net](https://github.com/lhc1224/OSAD_Net).
+
+2.The language-annotated PAD-L dataset is available for download via [ [link](https://arxiv.org/abs/2202.12076) ], and related papers and code can be downloaded from the [[link](https://github.com/lulsheng/CBCE-Net)].
 
 ## 🔍 Citation <a name="9"></a> 
 
