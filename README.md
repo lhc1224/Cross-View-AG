@@ -1,5 +1,5 @@
 # Learning Affordance Grounding from Exocentric Images
-PyTorch implementation of our one-shot affordance detection models. This repository contains PyTorch evaluation code, training code.
+PyTorch implementation of our Cross-view-AG models. This repository contains PyTorch evaluation code, training code.
 1. [📎 Paper Link](#1)
 2. [💡 Abstract](#2)
 3. [📖 Method](#3)
