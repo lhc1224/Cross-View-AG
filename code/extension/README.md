@@ -1,5 +1,5 @@
 # Grounded Affordance from Exocentric View
-PyTorch implementation of our one-shot affordance detection models. This repository contains PyTorch evaluation code, training code.
+PyTorch implementation of our Cross-view-AG models. This repository contains PyTorch evaluation code, training code.
 
 ## Requirements <a name="5"></a> 
   - python 3.7 
