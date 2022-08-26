@@ -1,12 +1,11 @@
 # Learning Affordance Grounding from Exocentric Images
 PyTorch implementation of our one-shot affordance detection models. This repository contains PyTorch evaluation code, training code.
-**The properties of the AGD20K dataset.** (a) Some examples from the dataset. (b) The distribution of categories in AGD20K. (c) The word cloud distribution of affordances in AGD20K. (d) Confusion matrix between the affordance category and the object category in AGD20K, where the horizontal axis denotes the object category and the vertical axis denotes the affordance category.
 
-## 📃 Requirements <a name="5"></a> 
+## Requirements <a name="5"></a> 
   - python 3.7 
   - pytorch 
   - opencv
-## ✏️ Usage <a name="6"></a> 
+## ️ Usage <a name="6"></a> 
 
 ```bash  
 git clone https://github.com/lhc1224/Cross-View-AG.git
@@ -32,13 +31,3 @@ You can test the trained model by running `test.py`.
  python test.py  
 ```
 
-## 🔍 Citation <a name="9"></a> 
-
-```
-@inproceedings{Learningluo,
-  title={Learning Affordance Grounding from Exocentric Images},
-  author={Luo, Hongchen and Zhai, Wei and Zhang, Jing and Cao, Yang and Tao, Dacheng},
-  booktitle={CVPR},
-  year={2022}
-}
-```
