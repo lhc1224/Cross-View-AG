@@ -17,7 +17,7 @@ Download the dataset and place it in the dataset/ folder
 - You can download the testsetv2 from [ [Google Drive]() | [Baidu Pan]() () ].
 Download the dataset and place it in the dataset/AGD20K folder
 ### Train <a name="61"></a> 
-You can download the pretrained model from [ [Google Drive](https://drive.google.com/file/d/16OYi8kAxHosfCo8E4gmFIhwemW1FaCEB/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1HbsvNctWd6XLXFcbIoq1ZQ) (xjk5) ], then move it to the `weights` folder
+You can download the pretrained model from [ [Google Drive](https://drive.google.com/file/d/1TqnkTTw0W5Kbx9PArHMvyzlmCBr9K5zZ/view?usp=share_link)], then move it to the `weights` folder
 To train the Cross-View-AG model, run `bash run.sh` with the desired model architecture:
 ```bash  
  bash run.sh   
