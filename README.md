@@ -77,7 +77,7 @@ Affordance grounding, a task to ground (i.e., localize) action possibility regio
 **Visual affordance heatmaps on the AGD20K dataset.** We select the prediction results of representative methods of affordance grounding (Hotspots [33]), weakly supervised object localization (EIL [30]), and saliency detection (DeepGazeII [21]) for presentation.
 
 ## ✉️ Statement <a name="8"></a> 
-This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact [lhc12@mail.ustc.edu.cn](lhc12@mail.ustc.edu.cn) or [wzhai056@mail.ustc.edu.cn](wzhai056@mail.ustc.edu.cn).
+For any other questions please contact [lhc12@mail.ustc.edu.cn](lhc12@mail.ustc.edu.cn) or [wzhai056@ustc.edu.cn](wzhai056@ustc.edu.cn).
 
 ## ✨ Other Relevant Works <a name="9"></a> 
 
