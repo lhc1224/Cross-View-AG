@@ -59,7 +59,7 @@ args.mask_root=os.path.join(args.data_root,args.divide,"testset","GT")
 
 if not os.path.exists(args.divide+"_preds.t7"):
     model = MODEL(args, num_classes=len(aff_list),
-                  align_channels=256, align_w=0.5, distil_w=0.5,
+                  align_w=0.5, distil_w=0.5,
                   cls_w=1, pretrained=False).cuda()
     model.load_state_dict(torch.load(args.model_path))
     model.eval()
