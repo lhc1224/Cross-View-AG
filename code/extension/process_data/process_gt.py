@@ -17,4 +17,4 @@ for file in files:
             #mask=mask/255.0
             key=file+"_"+obj+"_"+img
             dict_1[key]=mask
-torch.save(dict_1,"Seen_gt_3.t7")
+torch.save(dict_1,"Seen_gt.t7")
