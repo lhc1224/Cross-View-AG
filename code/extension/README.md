@@ -12,9 +12,9 @@ git clone https://github.com/lhc1224/Cross-View-AG.git
 cd Cross-View-AG
 ```
 ### Download AGD20K <a name="41"></a> 
-- You can download the AGD20K from [ [Google Drive](https://drive.google.com/file/d/1OEz25-u1uqKfeuyCqy7hmiOv7lIWfigk/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/1IRfho7xDAT0oJi5_mvP1sg) (g23n) ].
+- You can download the AGD20K from [ [Google Drive](https://drive.google.com/file/d/1OEz25-u1uqKfeuyCqy7hmiOv7lIWfigk/view?usp=sharing) | [Baidu Pan](https://pan.baidu.com/s/14dnu_izV34JnTuesEKq-DA) (bgl6) ].
 Download the dataset and place it in the dataset/ folder
-- You can download the testsetv2 from [ [Google Drive]() | [Baidu Pan](https://pan.baidu.com/s/15OKk1KVfhjkoVAYD2o7Mpg?pwd=kaw6) (kaw6) ].
+- You can download the testsetv2 from [ [Google Drive]() | [Baidu Pan](https://pan.baidu.com/s/1pmrhljEtWZJJghfxDOwilg) (5pie) ].
 Download the dataset and place it in the dataset/AGD20K folder
 ### Train <a name="61"></a> 
 You can download the pretrained model from [ [Google Drive](https://drive.google.com/file/d/1TqnkTTw0W5Kbx9PArHMvyzlmCBr9K5zZ/view?usp=share_link)], then move it to the `weights` folder
